@@ -12,8 +12,11 @@
 <br>
 <br>
 ## Problem Statement
+<img src="https://github.com/surendhar-code/Atlique-Hardwares-Sales-and-Profit-Analysis-using-SQL-and-Tableau/blob/main/Atlique%20Sales%20and%20Profit%20Analysis%20Dashboard%20Project/Project%20Report/atlique%20hardwares.jpg"> <br>
 Atlique Hardware is a company which supplies different hardware components to different clients. They have different branches in different cities in India. Mr. Bavin Patel is a Sales Director for the Headquarters of Atlique Hardware. His company's sales start declining and he wants to know the answer for why the sales are declining. So he asked his regional managers in different branches regarding this problem. They gave lots of excel files to him and it could not provide any valuable insights.
 ## Solution
+<img src="https://github.com/surendhar-code/Atlique-Hardwares-Sales-and-Profit-Analysis-using-SQL-and-Tableau/blob/main/Atlique%20Sales%20and%20Profit%20Analysis%20Dashboard%20Project/Project%20Report/solution.jpg"> <br>
+
 In order to overcome this problem, we use **SQL and Tableau** to get valuable insights from the data and to take effective decisions by creating realtime and interactive **Revenue and Profit Analysis Dashboards**. 
 ## AIMS Grid
 AIMS Grid is a  tool which helps you to collect the most important information about your project on one simple page and hence lay the foundation for a successful implementation.
@@ -68,7 +71,20 @@ After created the dashboards, we can get valuable insights from the data that we
 <img src="https://github.com/surendhar-code/Atlique-Hardwares-Sales-and-Profit-Analysis-using-SQL-and-Tableau/blob/main/Atlique%20Sales%20and%20Profit%20Analysis%20Dashboard%20Project/Dashboard%20Screenshots/Screenshot%20(735).png"> <br>
 **For the year 2020 :**
 
-<img src="https://github.com/surendhar-code/Atlique-Hardwares-Sales-and-Profit-Analysis-using-SQL-and-Tableau/blob/main/Atlique%20Sales%20and%20Profit%20Analysis%20Dashboard%20Project/Dashboard%20Screenshots/Screenshot%20(735).png"> <br>
+<img src="https://github.com/surendhar-code/Atlique-Hardwares-Sales-and-Profit-Analysis-using-SQL-and-Tableau/blob/main/Atlique%20Sales%20and%20Profit%20Analysis%20Dashboard%20Project/Dashboard%20Screenshots/Screenshot%20(736).png"> <br>
+#### 2.. Atlique Hardwares Sales Profit Analysis Dashboard
+**For the year 2017 :**
+
+<img src="https://github.com/surendhar-code/Atlique-Hardwares-Sales-and-Profit-Analysis-using-SQL-and-Tableau/blob/main/Atlique%20Sales%20and%20Profit%20Analysis%20Dashboard%20Project/Dashboard%20Screenshots/Screenshot%20(737).png"> <br>
+**For the year 2018 :**
+
+<img src="https://github.com/surendhar-code/Atlique-Hardwares-Sales-and-Profit-Analysis-using-SQL-and-Tableau/blob/main/Atlique%20Sales%20and%20Profit%20Analysis%20Dashboard%20Project/Dashboard%20Screenshots/Screenshot%20(738).png"> <br>
+**For the year 2019 :**
+<img src="https://github.com/surendhar-code/Atlique-Hardwares-Sales-and-Profit-Analysis-using-SQL-and-Tableau/blob/main/Atlique%20Sales%20and%20Profit%20Analysis%20Dashboard%20Project/Dashboard%20Screenshots/Screenshot%20(739).png"> <br>
+**For the year 2020 :**
+<img src="https://github.com/surendhar-code/Atlique-Hardwares-Sales-and-Profit-Analysis-using-SQL-and-Tableau/blob/main/Atlique%20Sales%20and%20Profit%20Analysis%20Dashboard%20Project/Dashboard%20Screenshots/Screenshot%20(740).png"> <br>
+## Project HLD Document
+[Click here to see the HLD document of this project](https://docs.google.com/document/d/1OkA4gy4VBZ8UN2xneb22-FIbv-tA_u93q_-VY1dZ8To/edit?usp=sharing)
 
 
 
