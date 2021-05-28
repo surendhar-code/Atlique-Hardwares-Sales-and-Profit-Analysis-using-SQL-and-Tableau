@@ -1,4 +1,4 @@
-# Atlique Hardwares Sales and Profit Analysis using SQL and Tableau
+# Atlique Hardware Sales and Profit Analysis using SQL and Tableau
 ## Demo
 ### 1. Atlique Hardware Sales Revenue Analysis Dashboard Link: 
 [Click here to see Sales Revenue Analysis Dashboard](https://public.tableau.com/views/AtliqueSalesInsightsDashboard/AtliqueSalesInsightsDashboard?:language=en&:display_count=y&:origin=viz_share_link) <br> <br>
@@ -13,7 +13,7 @@
 <br>
 ## Problem Statement
 <img src="https://github.com/surendhar-code/Atlique-Hardwares-Sales-and-Profit-Analysis-using-SQL-and-Tableau/blob/main/Atlique%20Sales%20and%20Profit%20Analysis%20Dashboard%20Project/Project%20Report/atlique%20hardwares.jpg"> <br>
-Atlique Hardware is a company which supplies different hardware components to different clients. They have different branches in different cities in India. Mr. Bavin Patel is a Sales Director for the Headquarters of Atlique Hardware. His company's sales start declining and he wants to know the answer for why the sales are declining. So he asked his regional managers in different branches regarding this problem. They gave lots of excel files to him and it could not provide any valuable insights.
+**Atlique Hardware** is a company which supplies different hardware components to different clients. They have different branches in different cities in India. Mr. Bavin Patel is a Sales Director for the Headquarters of Atlique Hardware. His company's sales start declining and he wants to know the answer for why the sales are declining. So he asked his regional managers in different branches regarding this problem. They gave lots of excel files to him and it could not provide any valuable insights.
 ## Solution
 <img src="https://github.com/surendhar-code/Atlique-Hardwares-Sales-and-Profit-Analysis-using-SQL-and-Tableau/blob/main/Atlique%20Sales%20and%20Profit%20Analysis%20Dashboard%20Project/Project%20Report/solution.jpg"> <br>
 
